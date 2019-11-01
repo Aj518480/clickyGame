@@ -7,7 +7,7 @@ function NavBar (props) {
   return (
 
 <NavBar>
-  <NavBar.Brand >Clicky Game</NavBar.Brand>
+  <NavBar.Brand >Mario's Clicky Game</NavBar.Brand>
   <NavBar.Toggle />
   <NavBar.Collapse className="justify-content-end">
     <NavBar.Text>
